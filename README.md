@@ -15,7 +15,7 @@
 </div>
 
 ## 👋 About
-学金融的
+你好
 
 ## 📊 GitHub Overview
 
